@@ -7,3 +7,7 @@ https://git-scm.com/
         https://git-scm.com/install/windows
         https://git-scm.com/install/linux
         usw.
+Und noch was
+
+niemals den hauptbranch main o. master bearbeiten!!!
+
